@@ -1,0 +1,15 @@
+.header{
+	display: flex;
+	width: 100%;
+	align-items: baseline;
+	position: relative;
+}
+.navBar{
+	height: 190px;
+    background-color: #11122b;
+    color: #cbcbcb;
+    /* Flexbox container */
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+}

@@ -1,0 +1,69 @@
+What I want in this website clone of the Lindon pool website. I don't like how it looks and works so I'm going to make a copy.
+	What I want to add that I did't see originaly.
+		With the park info page add a map linked in so you can find it easer and next to it a calender with the days they are open, days they are closed and specal events with details.
+		Have the website be more readable
+		Have the website be prettier and aquadic themed
+		Mabye link some videos
+		Have a login mabye
+		have the dropdown tabs fade in and out
+
+Tab Details
+
+	index.html
+		logo 
+			shoping
+				cart slide out tab
+		navBar with dropdown
+			park info
+				admition and punch pass
+				time 
+				waffer
+				pools 
+				reservation
+			programs & classes 
+				lessons
+				team
+			contact us
+				just a link
+			employment
+				just a link
+			shop
+				just a link
+			recreation
+				just a link
+		heroImage
+			inportant and relevent information
+			Location and times
+		footer
+			year
+				add a time calculater so it changes adimadicly
+			name
+				hard coded
+			phone number
+				mabye make it a link
+				mabye used font awsome and have it be a phone
+			social medea links
+				links to their social media
+
+	Park info folder
+		admitiion.html
+			header
+			FYI age detail
+			resident/nonresident conditional
+				if resident show resident prices larger
+				else show nonresident prices larger
+				or just make it prettier
+					add the checker effect with image and details
+			footer
+		times.html
+			header
+			hours
+				public swim
+				extra activities
+					Lap Swim     
+					Lazy River Walking
+					Water Aerobics
+			Add calender with dates 
+		signWaffer.html
+		pools.html
+		reservation.html
